@@ -1,0 +1,13 @@
+16:49:25.
+Game started: Player has $1000.00.16:49:50.
+Player Loses.
+Player bet $23.
+Player now has $977 left.
+16:50:06.
+Player Loses.
+Player bet $44.
+Player now has $933 left.
+16:50:28.
+Player Loses.
+Player bet $25.
+Player now has $908 left.
