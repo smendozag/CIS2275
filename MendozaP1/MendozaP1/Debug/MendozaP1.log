@@ -1,0 +1,7 @@
+﻿  Driver.cpp
+C:\Users\sergioSchooltop\Desktop\C Languages\C++Files\C++II Files\MendozaP1\MendozaP1\Driver.cpp(32,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Functions.cpp
+C:\Users\sergioSchooltop\Desktop\C Languages\C++Files\C++II Files\MendozaP1\MendozaP1\Functions.cpp(88,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sergioSchooltop\Desktop\C Languages\C++Files\C++II Files\MendozaP1\MendozaP1\Functions.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MendozaP1.vcxproj -> C:\Users\sergioSchooltop\Desktop\C Languages\C++Files\C++II Files\MendozaP1\Debug\MendozaP1.exe
